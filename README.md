@@ -2,17 +2,11 @@
 
 ###
 
-<h6 align="left">⚡ Sou programador desde 2024 e estudante do 3º ano do curso Técnico em Informática integrado ao Ensino Médio, apaixonado por tecnologia, programação e resolução de problemas , com o objetivo de evoluir como desenvolvedor, ingressar em Ciência da Computação em uma universidade pública, conquistar medalhas em olimpíadas científicas e desenvolver projetos reais, além de também me interessar por basquete, história e geopolítica.</h6>
+<h4 align="left">⚡ Sou programador desde 2024 e estudante do 3º ano do curso Técnico em Informática integrado ao Ensino Médio, apaixonado por tecnologia, programação e resolução de problemas , com o objetivo de evoluir como desenvolvedor, ingressar em Ciência da Computação em uma universidade pública, conquistar medalhas em olimpíadas científicas e desenvolver projetos reais, além de também me interessar por basquete, história e geopolítica.</h4>
 
 ###
 
-<div align="center">
-  <img height="125" src="https://gifdb.com/images/high/reverse-flash-eobard-thawne-drinking-coffee-q7dcjb2apcfuq47p.webp"  />
-</div>
-
-###
-
-<h3 align="left">Linguagens e Tecnologias</h3>
+<h2 align="left">Linguagens e Tecnologias</h2>
 
 ###
 
@@ -50,6 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://gifdb.com/images/high/reverse-flash-eobard-thawne-drinking-coffee-q7dcjb2apcfuq47p.webp"  />
 </div>
 
 ###
