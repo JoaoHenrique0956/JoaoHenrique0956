@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Linguagens e Tecnologias</h2>
+<h2 align="left">Linguagens</h2>
 
 ###
 
@@ -39,11 +39,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="43" alt="mongodb logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="43" alt="androidstudio logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="43" alt="vscode logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="43" alt="unity logo"  />
 </div>
 
 ###
