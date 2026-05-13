@@ -34,7 +34,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" />
 </div>
 <div align="center">
+<div>
+  <img 
+    align="left" 
+    height="220" 
+    src="https://media1.tenor.com/m/Dmp05slTR1EAAAAC/lebron-dunk-lebron-james.gif"  
+  />
+</div>
 
+<div align="right">
+  <img 
+    height="220"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=joaohenrique0956&theme=tokyonight&hide_border=true&layout=compact&border_radius=12" 
+  />
+</div>
   
 
 </div>
