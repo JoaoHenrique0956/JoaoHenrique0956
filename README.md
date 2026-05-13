@@ -85,11 +85,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" />
 </a>
 
-<a href="https://instagram.com/SEU_USUARIO" target="_blank">
+<a href="https://instagram.com/joao.mnds09" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" />
 </a>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
+<a href="mailto:joaohmo2009@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" />
 </a>
 
