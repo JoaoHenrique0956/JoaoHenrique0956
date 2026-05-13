@@ -43,9 +43,10 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/stats-output/stats.svg" height="150" />
-  <img src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/languages-output/languages.svg" height="150" />
+  <img src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ---
 
