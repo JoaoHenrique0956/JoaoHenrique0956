@@ -35,26 +35,7 @@
 </div>
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center">
-        <img 
-          height="220" 
-          src="https://media1.tenor.com/m/Dmp05slTR1EAAAAC/lebron-dunk-lebron-james.gif"
-          style="border-radius:16px;"
-        />
-      </td>
-
-      <td width="35"></td>
-
-      <td align="center">
-        <img 
-          height="220"
-          src="https://github-readme-stats.shion.dev/api/top-langs/?username=joaohenrique0956&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=16&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"
-        />
-      </td>
-    </tr>
-  </table>
+  
 
 </div>
 ---
