@@ -36,14 +36,14 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img height="250" src="https://media1.tenor.com/m/Dmp05slTR1EAAAAC/lebron-dunk-lebron-james.gif" />
 </div>
 
 ---
 
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joaohenrique0956&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
