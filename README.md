@@ -51,47 +51,25 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td>
 <img 
   height="220" 
   src="https://media1.tenor.com/m/Dmp05slTR1EAAAAC/lebron-dunk-lebron-james.gif"
 />
+</td>
 
+<td width="25"></td>
+
+<td>
 <img 
   height="220"
   src="https://github-readme-stats.shion.dev/api/top-langs/?username=joaohenrique0956&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
 />
-
-</div>
-
----
-
-<h3 align="center">🌐 Redes Sociais</h3>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
-</a>
-
-<a href="https://www.youtube.com/@Clock_Mapping45" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" />
-</a>
-
-<a href="https://instagram.com/SEU_USUARIO" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" />
-</a>
-
-<a href="mailto:SEU_EMAIL@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" />
-</a>
-
-<a href="https://wa.me/5512920003380" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" />
-</a>
-
-<a href="https://spotify.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" />
-</a>
+</td>
+</tr>
+</table>
 
 </div>
 
