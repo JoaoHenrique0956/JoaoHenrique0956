@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-mendes-oliveira-633ab5377/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
 </a>
 
