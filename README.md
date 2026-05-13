@@ -50,7 +50,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaohenrique0956&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="175" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
