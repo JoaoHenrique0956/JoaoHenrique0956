@@ -4,9 +4,8 @@
 ⚡ Programador desde 2024 e estudante do 3º ano do Técnico em Informática integrado ao Ensino Médio.  
 Apaixonado por tecnologia, programação e resolução de problemas 💻.  
 
-Tenho como objetivo evoluir como desenvolvedor, ingressar em Ciência da Computação em uma universidade pública 🎓, conquistar medalhas em olimpíadas científicas 🏅 e desenvolver projetos reais.
-
-Também me interesso por basquete 🏀, história 📚 e geopolítica 🌍.
+Objetivo: evoluir como dev, entrar em Ciência da Computação 🎓, ganhar olimpíadas 🏅 e criar projetos reais.  
+Também gosto de basquete 🏀, história 📚 e geopolítica 🌍.
 </h4>
 
 ---
@@ -30,27 +29,25 @@ Também me interesso por basquete 🏀, história 📚 e geopolítica 🌍.
 
 ---
 
-<h3 align="center">Estatísticas</h3>
+<h3 align="center">📊 Estatísticas</h3>
 
 <div align="center">
 
-  <!-- Garanta que esses arquivos existam no repo e sejam gerados por Action -->
-  <img src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/main/stats-output/stats.svg" height="160" />
-  <img src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/main/languages-output/languages.svg" height="160" />
+  <!-- IMPORTANTE: use main -->
+  <img height="160"
+       src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/main/stats-output/stats.svg" />
+
+  <img height="160"
+       src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/main/languages-output/languages.svg" />
 
 </div>
 
 ---
 
-<div align="center">
-  <img height="250" src="https://media1.tenor.com/m/Dmp05slTR1EAAAAC/lebron-dunk-lebron-james.gif" />
-</div>
-
----
-
-<h3 align="center">Contato</h3>
+<h3 align="center">📬 Contato</h3>
 
 <div align="center">
+
   <a href="https://www.linkedin.com/in/joão-henrique-mendes-oliveira-633ab5377" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
   </a>
@@ -59,7 +56,7 @@ Também me interesso por basquete 🏀, história 📚 e geopolítica 🌍.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" />
   </a>
 
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:seuemail@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" />
   </a>
 
